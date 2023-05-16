@@ -1,0 +1,11 @@
+\selectlanguage *{english}
+\contentsline {chapter}{\numberline {1}Overview}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Purpose}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Functionality}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Benefits}{1}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Specifications}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Design and Dimensions}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Design}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Dimensions}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Mounting}{5}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Connections}{5}{section.3.4}%
